@@ -1,4 +1,5 @@
-# Audit-Ally-Study-Guide
+# IT-Audit-Study-Buddy-Guide
+
 GPT model for learning IT audit process and frameworks.
 
 
